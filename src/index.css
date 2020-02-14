@@ -1,0 +1,16 @@
+.todo-app {
+  margin: 0 auto;
+  width: 90%;
+  padding: 30px 0;
+}
+.top-panel {
+  margin-bottom: 30px;
+}
+
+@media (min-width: 1200px) {
+  .todo-app {
+    margin: 0 auto;
+    width: 1000pxy Todo list
+    4 more to do, 0 done;
+  }
+}

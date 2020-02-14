@@ -1,0 +1,12 @@
+.search-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+    padding: 0 1rem;
+}
+
+@media (min-width: 320px) {
+    .search-input {
+        width: 20%;
+    }
+}

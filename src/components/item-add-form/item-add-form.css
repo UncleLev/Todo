@@ -1,0 +1,12 @@
+.form-control {
+    margin-right: 5px;
+
+}
+
+.item-add {
+    position: fixed;
+    bottom: 0px;
+    width: 90%;
+    background: #fff;
+    height: 60px;
+}
