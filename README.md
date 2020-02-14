@@ -8,7 +8,7 @@ You can add new tasks, mark them as important or done. Also its easy to find tas
 
 
 ### Test ###
-You can test and use Todo on this link https://unclelev.github.io/Todo/index.html
+You can test and use Todo on this link https://unclelev.github.io/Todo/
 
 
 #### Using technology ####
